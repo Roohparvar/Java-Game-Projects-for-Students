@@ -6,7 +6,7 @@ This repository contains three Java-based games designed to help students learn 
 2. **Minesweeper**
 3. **Tic-Tac-Toe**
 
-Each project provides a different level of challenge and interaction, allowing students to explore game development, logical thinking, and problem-solving skills using Java. Currently, the Sudoku and Minesweeper projects have been uploaded, and Tic-Tac-Toe will be added soon.
+Each project provides a different level of challenge and interaction, allowing students to explore game development, logical thinking, and problem-solving skills using Java.
 
 ---
 
